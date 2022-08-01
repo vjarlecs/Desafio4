@@ -1,0 +1,30 @@
+.card{
+    font-family: 'Caveat', cursive;
+}
+.card-img-top {
+    background-color: black;
+    padding: 10px;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.card-text{
+    color: white;
+  font-size: 20px ;
+    
+}
+
+.card-title{
+    color: #e83e8c;
+    font-size: 40px ;
+}
+
+.car a{
+    color: white;
+}
+
+.btn{
+    background: #e83e8c;
+}
